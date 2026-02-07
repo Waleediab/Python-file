@@ -1,3 +1,5 @@
 import novatel_edie
 
-novatel_edie()
+print("Hello world")
+
+print("INITIAL COMMIT")
